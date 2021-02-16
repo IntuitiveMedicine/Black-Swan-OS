@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/images">
+    <file>UI Images/Throttle_Guage.png</file>
+    <file>UI Images/Throttle.png</file>
+  </qresource>
+</RCC>
